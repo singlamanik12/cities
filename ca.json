@@ -1,6 +1,25 @@
 {
   "cities":[
-  "barrie",
-    "brampton"
+    "Alliston",
+  "Barrie",
+    "Brampton",
+    "Collingwood",
+    "Cookstown",
+    "Durham",
+    "East Gwillimbury",
+    "East York",
+    "Elmvale",
+    "Etobicoke",
+    "Greater Sudbury",
+    "Guelph",
+    "Hamilton",
+    "Huntsville",
+    "Huron East",
+    "Innisfil",
+    "King",
+    "Kingston",
+    "Kitchener",
+    "Oshawa",
+    "Toronto"
 ]  
 }
