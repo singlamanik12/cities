@@ -1,10 +1,12 @@
-[
-  {
-    "xroti":0,
+{
+  config:[
+  
+    "xroti":0
     "xrice":0,
     "xpaneer":0,
     "xchicken":0,
     "xdal":0,
     "xsabzi":0,
-  }
+  
 ]
+}
